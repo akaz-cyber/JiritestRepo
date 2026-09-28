@@ -51,3 +51,8 @@ php artisan serve
 
 📧 **Email:** `superadmin@gmail.com`  
 🔑 **Password:** `SU4Dmin!25`
+
+### ** User Login Credentials:**
+
+📧 **Email:** `user@gmail.com`  
+🔑 **Password:** `user12345`
